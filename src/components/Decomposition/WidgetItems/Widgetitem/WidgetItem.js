@@ -5,7 +5,7 @@
  * Ссылка
  * @param props.url
  *
- * Содержимое блока.
+ * Содержимое блока
  * @param props.children
  *
  * @returns {JSX.Element}
