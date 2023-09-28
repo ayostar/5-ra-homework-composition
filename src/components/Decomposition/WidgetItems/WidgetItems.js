@@ -3,7 +3,7 @@
  * @returns {JSX.Element}
  */
 import Weather from './Weather/Weather';
-import WidgetItem from './WidgetItem/WidgetItem';
+import WidgetItem from './WidgetItem/Widget_item';
 
 export default function WidgetItems() {
   return (
