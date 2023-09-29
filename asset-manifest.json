@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/5-ra-homework-composition/static/css/main.5c5e4d51.css",
+    "main.js": "/5-ra-homework-composition/static/js/main.be41ea01.js",
+    "static/js/787.7ee184ed.chunk.js": "/5-ra-homework-composition/static/js/787.7ee184ed.chunk.js",
+    "static/media/card-4.jpg": "/5-ra-homework-composition/static/media/card-4.27c195320aad08b51f6a.jpg",
+    "static/media/card-1.jpg": "/5-ra-homework-composition/static/media/card-1.678eeb786b97159af552.jpg",
+    "static/media/card-3.jpg": "/5-ra-homework-composition/static/media/card-3.44e18fd06a91ff6c1a09.jpg",
+    "static/media/Montserrat-Regular.woff2": "/5-ra-homework-composition/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/5-ra-homework-composition/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "static/media/card-2.jpg": "/5-ra-homework-composition/static/media/card-2.fd2f29d3f9e065dd7934.jpg",
+    "index.html": "/5-ra-homework-composition/index.html",
+    "main.5c5e4d51.css.map": "/5-ra-homework-composition/static/css/main.5c5e4d51.css.map",
+    "main.be41ea01.js.map": "/5-ra-homework-composition/static/js/main.be41ea01.js.map",
+    "787.7ee184ed.chunk.js.map": "/5-ra-homework-composition/static/js/787.7ee184ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c5e4d51.css",
+    "static/js/main.be41ea01.js"
+  ]
+}
